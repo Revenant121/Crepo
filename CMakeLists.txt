@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.28)
-project(practica9 C)
+project(practica11 C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(practica9 main.c)
+add_executable(practica11 main.c)
